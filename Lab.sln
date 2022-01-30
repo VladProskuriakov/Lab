@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PointLib", "PointLib\PointLib.vbproj", "{C98EA3A3-7F2A-49D6-AEF7-E4636A5F0309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormApp", "FormApp\FormApp.csproj", "{6F89323F-BBC1-47EC-B72B-41749408A79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C98EA3A3-7F2A-49D6-AEF7-E4636A5F0309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98EA3A3-7F2A-49D6-AEF7-E4636A5F0309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98EA3A3-7F2A-49D6-AEF7-E4636A5F0309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98EA3A3-7F2A-49D6-AEF7-E4636A5F0309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F89323F-BBC1-47EC-B72B-41749408A79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F89323F-BBC1-47EC-B72B-41749408A79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F89323F-BBC1-47EC-B72B-41749408A79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F89323F-BBC1-47EC-B72B-41749408A79F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE96091F-7F00-4D94-990B-E95953E12FED}
+	EndGlobalSection
+EndGlobal
